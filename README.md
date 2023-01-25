@@ -1,6 +1,8 @@
 # NHecutor
 YOUR ANTIVIRUS HAS TO BE OFF, OR YOU HAVE TO MAKE AN EXCEPTION OR ELSE WeAreDevs_API.dll WILL BE DELETED RENDERING IT USELESS.
 
+IF YOU GET AN 'Exploit Has Been Patched!" ERROR, GOTO https://wearedevs.net/d/Exploit%20API AND REPLACE THE WeAreDevs_API.dll IN THE MAIN FOLDER.
+
 The simplest Roblox script executor ever made, perfect for beginners.
 To download, go ahead and make a zip copy of the source. the executor will be in NHecutorv1.1. Nothing is needed to run, just press "Attach" and put your code in the text box and click on "Execute".
 The "Clear" button will clear the text box.
