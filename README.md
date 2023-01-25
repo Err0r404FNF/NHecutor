@@ -6,7 +6,7 @@ To download, go ahead and make a zip copy of the source. the executor will be in
 The "Clear" button will clear the text box.
 The side panel contains scripts that are placed in the "scripts" folder for easy access! Do be aware that for your scripts to show up, you need to have restarted the program.
 Personal script reccomendation of mine is Infinite Yield FE, simple admin script will basically give you HD Admin with extra steps.
-To use it, paste: loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))() into the text box and hit "Execute"
+To use it, paste: "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()" into the text box and hit "Execute"
 
 To execute a script instantly upon attachment, place a .txt or a .lua file containing your script in the "autoexec" folder. (This feature has not been tested by me so idk if it works bc i dont use autoexec, be my guest tho.)
 
